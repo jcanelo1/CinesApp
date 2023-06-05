@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="alreadysignedup" type="id" />
+    <item name="alreadysign" type="id" />
+    <item name="alreadysign" type="id" />
+    <item name="alreadysigned" type="id">00</item>
+    <item name="signup" type="id">value</item>
+    <item name="fullname" type="id">value</item>
+    <item name="Email" type="id">value</item>
+    <item name="fullname" type="id">value</item>
+    <item name="fullname" type="id">value</item>
+    <item name="fullname" type="id">value</item>
+    <item name="fullname" type="id">value</item>
+</resources>

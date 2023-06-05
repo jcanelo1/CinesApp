@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <item name="alreadysign" type="id">3</item>
+</resources>
